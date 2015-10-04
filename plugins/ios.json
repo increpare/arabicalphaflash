@@ -8,7 +8,7 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.increpare.arabicalphaflash"
+            "PACKAGE_NAME": "com.increpare.arabicutala"
         }
     },
     "dependent_plugins": {}
